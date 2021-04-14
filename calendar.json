@@ -1,0 +1,48 @@
+{
+    "ID":0,
+    "Name":"24Hours by 7Days Calendar(Default)",
+    "WeekStartDay":0,
+    "DefaultStartTime":"08:00:00",
+    "DefaultEndTime":"16:00:00",
+    "Hours":"08:00:00",
+    "CalendarType":0,
+    "WorkingDays":[
+       1,
+       2,
+       3,
+       4,
+       5,
+       6,
+       0
+    ],
+    "Holidays":[
+       
+    ],
+    "ExceptionalWorkingDays":[
+       
+    ],
+    "AnnuallyRecurringHolidays":[
+       
+    ],
+    "AnnuallyRecurringWorkingDays":[
+       
+    ],
+    "MonthWiseWorkDays":[
+       
+    ],
+    "Culture":"en-US",
+    "AmountFormat":"###,###,##0.000",
+    "DateFormat":"MM/dd/yyyy",
+    "DateTimeFormat":"MM/dd/yyyy HH:mm:ss",
+    "PercentageFormat":"##0.00",
+    "QuantityFormat":"###,###,##0.000",
+    "TimeFormat":"HH:mm:ss",
+    "UnitPriceFormat":"###,###,##0.0000",
+    "AppName":"Masterworks",
+    "ProjectStartDate":"2021-04-02T00:00:00",
+    "ProjectEndDate":"2023-04-02T00:00:00",
+    "TotalMonthWiseWorkDays":0,
+    "Days":0,
+    "BaseCalendar":"MON 08:00:00 16:00:00;TUE 08:00:00 16:00:00;WED 08:00:00 16:00:00;THU 08:00:00 16:00:00;FRI 08:00:00 16:00:00;SAT 08:00:00 16:00:00",
+    "ExceptionCalendar":""
+ }
