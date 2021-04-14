@@ -1,0 +1,19 @@
+{
+  "name": "jquery",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000G\u0000a\u0000n\u0000t\u0000t\u0000\r\u0000 \u0000",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanjayme97/Gantt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanjayme97/Gantt/issues"
+  },
+  "homepage": "https://github.com/sanjayme97/Gantt#readme"
+}
