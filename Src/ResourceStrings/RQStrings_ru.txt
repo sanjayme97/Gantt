@@ -1,0 +1,57 @@
+﻿# This line is ignored by the plugin 
+# Some things this plugin has issues with:
+# Namespace for keys doens't work in Chrome. For example: "RadiantQ.SomeKey" doesn't work in Chrome. So we won't use namespaces.
+# Multiple placeholders doesn't work in IE9. For example: "SomeKey = value: {0}, {1}" doesn't work in IE9. So, we will only use one place holder.
+
+RadiantQ_ConvertToMilestoneString = Преобразовать в Веха
+RadiantQ_ConvertToNormalTaskString = Преобразование к нормальной Целевой
+RadiantQ_DeleteTaskString = Удалить задачу
+RadiantQ_DurationString = Продолжительность
+RadiantQ_EffortString = Время выполнения
+RadiantQ_EndTimeString = Время окончания
+RadiantQ_FinishString = Завершения
+RadiantQ_FinishToStartLinkString = Связь Окончание-Начало
+RadiantQ_FromFinishOfString = С начала
+RadiantQ_FromString = С
+RadiantQ_IDString = ID
+RadiantQ_IndentString = Абзац
+RadiantQ_LagString = Интервал
+RadiantQ_MilestoneString = Этап
+RadiantQ_NameString = Имя
+RadiantQ_NewTaskString = Новая задача
+RadiantQ_OutdentString = Уменьшить отступ
+RadiantQ_PleaseProvideCorrectFormatString = Пожалуйста, предоставьте верный формат данных
+RadiantQ_PredecessorsString = Предшественники
+RadiantQ_ProgressPercentString = Процент прогресса
+RadiantQ_ProgressString = Прогресс
+RadiantQ_ResourcesString = Ресурсы
+RadiantQ_ShortDayString = д
+RadiantQ_ShortHalfString = П
+RadiantQ_ShortHourString = ч
+RadiantQ_ShortMinuteString = м
+RadiantQ_ShortMonthDayFormatString = dd/MM
+RadiantQ_ShortQuarterString = К
+RadiantQ_ShortSecondsString = c
+RadiantQ_StartString = Начало
+RadiantQ_StartTimeString = Время начала
+RadiantQ_SummaryString = Описание
+RadiantQ_TaskInformationString = Сведения о задаче
+RadiantQ_TaskLinkString = Ссылка на задание
+RadiantQ_TaskString = Задание
+RadiantQ_TimeScaleLeftButtonTooltipString = Страницы слева
+RadiantQ_TimeScaleRightButtonTooltipString = Страница право
+RadiantQ_TodayString = Сегодня
+RadiantQ_ToStartOfString = На начало
+RadiantQ_ToXString = По
+RadiantQ_ZoomSliderToolTipFormatString = увеличение уровня: {0} от {1} до {2}
+RadiantQ_Delete = удалять
+RadiantQ_ChangeToFinishToStart = Изменение довести до начала 
+RadiantQ_ChangetoFinishtoFinish = Измените Готово, чтобы завершить
+RadiantQ_ChangeToStartToFinish = Для изменения начала и до конца
+RadiantQ_ChangeToStartToStart = Изменить, чтобы начать Начать
+RadiantQ_ScrollToTask = Выделите довести задачу, чтобы посмотреть
+RadiantQ_ScrollsToPrevHiddenTask = Выделите принести предыдущий скрытый задачу, чтобы посмотреть
+RadiantQ_ScrollsToNextHiddenTask = Выделите принести следующий скрытый задачу, чтобы посмотреть
+RadiantQ_SplitterOpen = открыто
+RadiantQ_SplitterClose = близко
+RadiantQ_SplitterResize = Изменение размера

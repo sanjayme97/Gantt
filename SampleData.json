@@ -1,0 +1,29 @@
+[{
+
+    "Name" : "Task 1",
+
+    "ID" : 1,
+
+    "StartTime" : "2021-04-07T00:00:00Z",
+
+    "Effort" : "8:00:00",
+
+    "Description" : "Description of Task 1"
+
+},
+
+{
+
+    "Name" : "Task 2",
+
+    "ID" : 2,
+
+    "PredecessorIndices" : "1",
+
+    "StartTime" : "2021-04-03T00:00:00Z",
+
+    "Effort" : "16:00:00",
+
+    "Description" : "Description of Task 2"
+
+}]

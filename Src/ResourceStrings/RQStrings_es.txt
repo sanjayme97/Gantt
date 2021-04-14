@@ -1,0 +1,59 @@
+# This line is ignored by the plugin 
+# Some things this plugin has issues with:
+# Namespace for keys doens't work in Chrome. For example: "RadiantQ.SomeKey" doesn't work in Chrome. So we won't use namespaces.
+# Multiple placeholders doesn't work in IE9. For example: "SomeKey = value: {0}, {1}" doesn't work in IE9. So, we will only use one place holder.
+
+RadiantQ_ConvertToMilestoneString = Convertir al Hito
+RadiantQ_ConvertToNormalTaskString = Convertir a la normalidad de tareas
+RadiantQ_DeleteTaskString = Eliminar tarea
+RadiantQ_DurationString = Duración
+
+RadiantQ_EffortString = Esfuerzo
+RadiantQ_EndTimeString = Hora de finalización
+
+RadiantQ_FinishString = Acabado
+RadiantQ_FinishToStartLinkString = Finalizar para enlace de inicio
+RadiantQ_FromFinishOfString = Desde el acabado de
+RadiantQ_FromString = De
+RadiantQ_IDString = ID
+RadiantQ_IndentString = Sangría
+RadiantQ_LagString = Crear
+RadiantQ_MilestoneString = Hito
+RadiantQ_NameString = Nombre
+RadiantQ_NewTaskString = Nueva tarea
+RadiantQ_OutdentString = Anular sangría
+RadiantQ_PleaseProvideCorrectFormatString = Por favor ingrese su formato correcto
+RadiantQ_PredecessorsString = Antecesores
+RadiantQ_ProgressPercentString = Porcentaje de Progreso
+RadiantQ_ProgressString = Progreso
+RadiantQ_ResourcesString = Recursos
+RadiantQ_ShortDayString = d
+RadiantQ_ShortHalfString = M
+RadiantQ_ShortHourString = h
+RadiantQ_ShortMinuteString = m
+RadiantQ_ShortMonthDayFormatString = MM/dd
+RadiantQ_ShortQuarterString = T
+RadiantQ_ShortSecondsString = s
+RadiantQ_StartString = Empezar
+RadiantQ_StartTimeString = Hora de inicio
+RadiantQ_SummaryString = Resumen
+RadiantQ_TaskInformationString = Información de la tarea...
+RadiantQ_TaskLinkString = Tarea Link
+RadiantQ_TaskString = Tarea
+RadiantQ_TimeScaleLeftButtonTooltipString = Página izquierda
+RadiantQ_TimeScaleRightButtonTooltipString = Derecho de la página
+RadiantQ_TodayString = Hoy
+RadiantQ_ToStartOfString = Para iniciar de
+RadiantQ_ToXString = A
+RadiantQ_ZoomSliderToolTipFormatString = Zoom nivel: {0} de {1} a {2}
+RadiantQ_Delete = borrar
+RadiantQ_ChangeToFinishToStart = Cambiar a Finalizar para iniciar
+RadiantQ_ChangetoFinishtoFinish = Cambie al Finalizar para terminar
+RadiantQ_ChangeToStartToFinish =  Cambiar a principio hasta el final
+RadiantQ_ChangeToStartToStart =  Cambiar a START para iniciar
+RadiantQ_ScrollToTask = Desplácese para llevar tarea para ver
+RadiantQ_ScrollsToPrevHiddenTask = Desplácese para traer anterior tarea oculta para ver
+RadiantQ_ScrollsToNextHiddenTask = Desplácese para traer siguiente tarea oculta para ver
+RadiantQ_SplitterOpen = abierto
+RadiantQ_SplitterClose = cerca
+RadiantQ_SplitterResize = Cambiar el tamaño

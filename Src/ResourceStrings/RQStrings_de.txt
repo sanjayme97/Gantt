@@ -1,0 +1,57 @@
+# This line is ignored by the plugin 
+# Some things this plugin has issues with:
+# Namespace for keys doens't work in Chrome. For example: "RadiantQ.SomeKey" doesn't work in Chrome. So we won't use namespaces.
+# Multiple placeholders doesn't work in IE9. For example: "SomeKey = value: {0}, {1}" doesn't work in IE9. So, we will only use one place holder.
+
+RadiantQ_ConvertToMilestoneString = Convert to Milestone
+RadiantQ_ConvertToNormalTaskString = Convert to normal Task
+RadiantQ_DeleteTaskString = Aufgabe löschen
+RadiantQ_DurationString = Dauer
+RadiantQ_EffortString = Mühe
+RadiantQ_EndTimeString = Ende Zeit
+RadiantQ_FinishString = Ende
+RadiantQ_FinishToStartLinkString = Ende-Start Link
+RadiantQ_FromFinishOfString = Vom Ziel der
+RadiantQ_FromString = Von
+RadiantQ_IDString = ID
+RadiantQ_IndentString = Einzug
+RadiantQ_LagString = Lag
+RadiantQ_MilestoneString = Milestone
+RadiantQ_NameString = Name
+RadiantQ_NewTaskString = Neue Aufgabe
+RadiantQ_OutdentString = Ausrücken
+RadiantQ_PleaseProvideCorrectFormatString = Bitte geben Sie eine korrekte Format
+RadiantQ_PredecessorsString = Vorgänger
+RadiantQ_ProgressPercentString = Progress Prozent
+RadiantQ_ProgressString = Progress
+RadiantQ_ResourcesString = Resources
+RadiantQ_ShortDayString = t
+RadiantQ_ShortHalfString = H
+RadiantQ_ShortHourString = s
+RadiantQ_ShortMinuteString = m
+RadiantQ_ShortMonthDayFormatString = dd/MM
+RadiantQ_ShortQuarterString = Q
+RadiantQ_ShortSecondsString = s
+RadiantQ_StartString = Starten
+RadiantQ_StartTimeString = Startzeit
+RadiantQ_SummaryString = Zusammenfassung
+RadiantQ_TaskInformationString = Informationen zum Vorgang
+RadiantQ_TaskLinkString = Task Link
+RadiantQ_TaskString = Task-Link
+RadiantQ_TimeScaleLeftButtonTooltipString = Seite Links
+RadiantQ_TimeScaleRightButtonTooltipString = Seite nach rechts
+RadiantQ_TodayString = Heute
+RadiantQ_ToStartOfString = Zum Anfang des
+RadiantQ_ToXString = Zu
+RadiantQ_ZoomSliderToolTipFormatString = Zoom-Stufe: {0} von {1} zu {2}
+RadiantQ_Delete = löschen
+RadiantQ_ChangeToFinishToStart = So ändern Sie Fertig Beginn
+RadiantQ_ChangetoFinishtoFinish = Wechseln Sie auf Fertigstellen, um Fertig
+RadiantQ_ChangeToStartToFinish = So ändern Sie Anfang bis Ende
+RadiantQ_ChangeToStartToStart = Ändern Sie zu beginnen, starten
+RadiantQ_ScrollToTask = Blättern Sie zu Aufgabe bringen, damit sie angezeigt
+RadiantQ_ScrollsToPrevHiddenTask = Blättern zur vorherigen versteckte Aufgabe zu bringen, um zu sehen
+RadiantQ_ScrollsToNextHiddenTask = Blättern Sie zum nächsten versteckten Aufgabe zu bringen, um zu sehen.
+RadiantQ_SplitterOpen = öffnen
+RadiantQ_SplitterClose = schließen
+RadiantQ_SplitterResize = Ändern Sie die Größe

@@ -1,0 +1,59 @@
+# This line is ignored by the plugin 
+# Some things this plugin has issues with:
+# Namespace for keys doens't work in Chrome. For example: "RadiantQ.SomeKey" doesn't work in Chrome. So we won't use namespaces.
+# Multiple placeholders doesn't work in IE9. For example: "SomeKey = value: {0}, {1}" doesn't work in IE9. So, we will only use one place holder.
+
+#TODO: put RadiantQ_ before the every keys
+
+RadiantQ_ConvertToMilestoneString = Konverter til milepel
+RadiantQ_ConvertToNormalTaskString = Konverter til normal Oppgave
+RadiantQ_DeleteTaskString = Slett Oppgave
+RadiantQ_DurationString = Varighet
+RadiantQ_EffortString = Arbeidstid
+RadiantQ_EndTimeString = Sluttid
+RadiantQ_FinishString = Ferdig
+RadiantQ_FinishToStartLinkString = Ferdig-til-Start Link
+RadiantQ_FromFinishOfString = Fra ferdigstilling av
+RadiantQ_FromString = Fra
+RadiantQ_IDString = ID
+RadiantQ_IndentString = Innrykk
+RadiantQ_LagString = Tilleggstid
+RadiantQ_MilestoneString = Milepel
+RadiantQ_NameString = Navn
+RadiantQ_NewTaskString = Ny oppgave
+RadiantQ_OutdentString = Flytte ut
+RadiantQ_PleaseProvideCorrectFormatString = Vennligst angi korrekt format
+RadiantQ_PredecessorsString = Forgjengere
+RadiantQ_ProgressPercentString = Progresjon prosent
+RadiantQ_ProgressString = Progresjon
+RadiantQ_ResourcesString = Ressurser
+RadiantQ_ShortDayString = d
+RadiantQ_ShortHalfString = T
+RadiantQ_ShortHourString = t
+RadiantQ_ShortMinuteString = m
+RadiantQ_ShortMonthDayFormatString = MM/dd
+RadiantQ_ShortQuarterString = Q
+RadiantQ_ShortSecondsString = s
+RadiantQ_StartString = Start
+RadiantQ_StartTimeString = Starttid
+RadiantQ_SummaryString = Oppsummering
+RadiantQ_TaskInformationString = Oppgave Informasjon...
+RadiantQ_TaskLinkString = Oppgave Link
+RadiantQ_TaskString = Oppgave
+RadiantQ_TimeScaleLeftButtonTooltipString = Page Venstre
+RadiantQ_TimeScaleRightButtonTooltipString = Page Høyre
+RadiantQ_TodayString = I dag
+RadiantQ_ToStartOfString = Til start av
+RadiantQ_ToXString = Til
+RadiantQ_ZoomSliderToolTipFormatString = Zoom nivå: {0} av {1} til {2}
+RadiantQ_Delete = Slett
+RadiantQ_ChangeToFinishToStart = Bytt til Fullfør for å starte
+RadiantQ_ChangetoFinishtoFinish = Bytt til slutt til slutt 
+RadiantQ_ChangeToStartToFinish = Bytt til start til slutt
+RadiantQ_ChangeToStartToStart = Bytt til Start for å starte
+RadiantQ_ScrollToTask = Bla for å bringe oppgave å vise
+RadiantQ_ScrollsToPrevHiddenTask = Rull å bringe forrige skjulte oppgave å vise
+RadiantQ_ScrollsToNextHiddenTask = Bla for å bringe neste skjulte oppgave å vise
+RadiantQ_SplitterOpen = åpent
+RadiantQ_SplitterClose = Lukk
+RadiantQ_SplitterResize = Resize
